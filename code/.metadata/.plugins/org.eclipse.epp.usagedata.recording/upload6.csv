@@ -1,0 +1,201 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592509340
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592509757
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592509878
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592509925
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592510036
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592510039
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592510205
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592511463
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592523158
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592528413
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592534279
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592544962
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592581655
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592583936
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592719168
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592729921
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592733973
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563592736102
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592738009
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563592763852
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592764743
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563592819755
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592822181
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592823409
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592823584
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592823664
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592823805
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592823809
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592823908
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592824577
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592825615
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592826011
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592853722
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592856612
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592868080
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563592872702
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563592873820
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563592897009
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1563592912321
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563592914380
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1563592916129
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.indent",1563592916739
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563592953748
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592955684
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592956200
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592956334
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592956406
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592956521
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563592956525
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592956682
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592959120
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563592981289
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1563593170704
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563593173297
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563593191437
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563593206958
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563593207510
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563593207715
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563593207791
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563593207939
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563593207946
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563593208138
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563593209804
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563593263419
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593275982
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593278023
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563593422917
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563593439079
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593440322
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563593444806
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563593490270
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563593509524
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563593610463
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563593613123
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563593624651
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1563593626750
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563593627614
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563593631084
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593667385
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593670929
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563593672421
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593688517
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593777679
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593782252
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593813461
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593821390
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563593848599
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593875671
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563593880966
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563593884523
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563593887028
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563593924277
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563593927477
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1563593929179
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.indent",1563593930220
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563593958245
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563593960887
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1563593962538
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.indent",1563593964247
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563594002014
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563594004720
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563594006132
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563594008062
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563594009036
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563594009165
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563594009397
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563594009511
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563594009514
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563594009673
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563594010723
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595465287
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1563595501734
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563595507816
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1563595510216
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.indent",1563595510708
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563595593528
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563595597657
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563595621371
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1563595624326
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1563595624642
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1563595624851
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563595627229
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563595630268
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1563595631528
+executed,command,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.edit.text.c.indent",1563595633149
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563595659091
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595661888
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595662459
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595662582
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595662648
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595662761
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595662766
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595662926
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595665660
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595665791
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595665857
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595665923
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595666039
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595666042
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595666152
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595667149
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595667312
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595667329
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595667412
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595667530
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595667534
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595667620
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595668378
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595668542
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595668558
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595668617
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595668740
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595668742
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595668807
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595669512
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595669674
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595669684
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595669740
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595669864
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595669872
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595669928
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595670568
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595670723
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595670734
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595670793
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595670910
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595670912
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595670976
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595671636
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595671747
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595671803
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595671848
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595671973
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595671975
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595672037
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595672834
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595673003
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595673005
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595673148
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595673268
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595673270
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595673336
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595674089
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595674252
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595674262
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595674351
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595674463
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595674467
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595674546
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595675293
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595675457
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595675462
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595675517
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595675647
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595675649
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595675710
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595676699
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595676813
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563595676860
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563595676909

@@ -1,0 +1,12 @@
+#Tue Jul 16 08:40:33 EET 2019
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/de.innot.avreclipse.configuration.app.debug.1737972926/CPATH/delimiter=;
+environment/buildEnvironmentInclude/de.innot.avreclipse.configuration.app.debug.1737972926/CPATH/operation=remove
+environment/buildEnvironmentInclude/de.innot.avreclipse.configuration.app.debug.1737972926/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/de.innot.avreclipse.configuration.app.debug.1737972926/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/de.innot.avreclipse.configuration.app.debug.1737972926/append=true
+environment/buildEnvironmentInclude/de.innot.avreclipse.configuration.app.debug.1737972926/appendContributed=true
+environment/buildEnvironmentLibrary/de.innot.avreclipse.configuration.app.debug.1737972926/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/de.innot.avreclipse.configuration.app.debug.1737972926/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/de.innot.avreclipse.configuration.app.debug.1737972926/append=true
+environment/buildEnvironmentLibrary/de.innot.avreclipse.configuration.app.debug.1737972926/appendContributed=true

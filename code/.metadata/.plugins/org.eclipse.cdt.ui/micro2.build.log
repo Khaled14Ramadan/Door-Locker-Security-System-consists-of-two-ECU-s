@@ -1,0 +1,15 @@
+
+**** Build of configuration Debug for project micro2 ****
+
+**** Internal Builder is used for build               ****
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -c -oMC2.o ..\MC2.c
+In file included from ..\/micro_config.h:22,
+                 from ..\/I2C.h:12,
+                 from ..\/eeprom.h:11,
+                 from ..\MC2.c:9:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+avr-gcc -Wl,-Map,micro2.map -mmcu=atmega16 -omicro2.elf uart.o timer1.o eeprom.o MC2.o I2C.o
+-avr-objdump -h -S micro2.elf ..\micro2.elf >micro2.lss
+Internal Builder: Cannot run program "-avr-objdump": Launching failed
+Build error occurred, build is stopped
+Time consumed: 646  ms.  

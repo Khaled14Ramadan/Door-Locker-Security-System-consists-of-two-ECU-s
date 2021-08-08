@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.cdt.debug.ui.memory.traditional,1.2.0.201102110609,"org.eclipse.cdt.debug.ui.memory.traditional",1563857597851
+stopped,bundle,org.eclipse.cdt.dsf,2.1.1.201102110609,"org.eclipse.cdt.dsf",1563857597862
+stopped,bundle,org.eclipse.cdt.debug.core,7.0.0.201102110609,"org.eclipse.cdt.debug.core",1563857597862
+stopped,bundle,de.innot.avreclipse.ui,2.4.2,"de.innot.avreclipse.ui",1563857597891
+stopped,bundle,org.eclipse.cdt.managedbuilder.ui,7.0.0.201102110609,"org.eclipse.cdt.managedbuilder.ui",1563857597911
+stopped,bundle,org.eclipse.cdt.make.ui,7.0.0.201102110609,"org.eclipse.cdt.make.ui",1563857597911
+stopped,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,7.0.0.201102110609,"org.eclipse.cdt.managedbuilder.gnu.ui",1563857597926
+stopped,bundle,de.innot.avreclipse.core,2.4.2,"de.innot.avreclipse.core",1563857597926
+stopped,bundle,org.eclipse.cdt.managedbuilder.core,7.0.2.201102110609,"org.eclipse.cdt.managedbuilder.core",1563857597926
+stopped,bundle,org.eclipse.cdt.make.core,7.0.1.201102110609,"org.eclipse.cdt.make.core",1563857597926
+stopped,bundle,org.eclipse.cdt.mylyn.ui,1.1.4.v20110204-0100-e3x,"org.eclipse.cdt.mylyn.ui",1563857597926
+stopped,bundle,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui",1563857597926
+stopped,bundle,org.eclipse.cdt.core,5.2.1.201102110609,"org.eclipse.cdt.core",1563857597926
+stopped,bundle,org.eclipse.compare.win32,1.0.101.R36x_v20101103-0618,"org.eclipse.compare.win32",1563857597947
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20100513,"org.eclipse.equinox.p2.ui.sdk",1563857597966
+stopped,bundle,org.eclipse.search,3.6.0.v20100520-0800,"org.eclipse.search",1563857597973
+stopped,bundle,org.eclipse.mylyn.team.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.team.ui",1563857597974
+stopped,bundle,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.resources",1563857597975
+stopped,bundle,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring",1563857597975
+stopped,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1563857597976
+stopped,bundle,org.eclipse.mylyn.ide.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.ide.ui",1563857597991
+stopped,bundle,org.eclipse.mylyn.resources.ui,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.resources.ui",1563857598056
+stopped,bundle,org.eclipse.mylyn.wikitext.tasks.ui,1.3.1.v20100823-0100-e3x,"org.eclipse.mylyn.wikitext.tasks.ui",1563857598095
+stopped,bundle,org.eclipse.mylyn.context.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.context.ui",1563857598095
+stopped,bundle,org.eclipse.mylyn.help.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.help.ui",1563857598200
+activated,perspective,org.eclipse.cdt.ui,,"org.eclipse.cdt.ui.CPerspective",1563858055727
+started,bundle,org.eclipse.osgi,3.6.2.R36x_v20110210,"org.eclipse.osgi",1563858055730
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20100503,"org.eclipse.equinox.simpleconfigurator",1563858055733
+started,bundle,com.ibm.icu,4.2.1.v20100412,"com.ibm.icu",1563858055736
+started,bundle,org.eclipse.cdt.core,5.2.1.201102110609,"org.eclipse.cdt.core",1563858055738
+started,bundle,org.eclipse.cdt.make.core,7.0.1.201102110609,"org.eclipse.cdt.make.core",1563858055740
+started,bundle,org.eclipse.cdt.make.ui,7.0.0.201102110609,"org.eclipse.cdt.make.ui",1563858055742
+started,bundle,org.eclipse.cdt.managedbuilder.core,7.0.2.201102110609,"org.eclipse.cdt.managedbuilder.core",1563858055744
+started,bundle,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui",1563858055744
+started,bundle,org.eclipse.compare.core,3.5.101.R36x_v20100929-0800,"org.eclipse.compare.core",1563858055745
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20100505-1235,"org.eclipse.core.contenttype",1563858055747
+started,bundle,org.eclipse.core.databinding.observable,1.3.0.I20100601-0800,"org.eclipse.core.databinding.observable",1563858055748
+started,bundle,org.eclipse.core.expressions,3.4.200.v20100505,"org.eclipse.core.expressions",1563858055750
+started,bundle,org.eclipse.core.filebuffers,3.5.100.v20100520-0800,"org.eclipse.core.filebuffers",1563858055765
+started,bundle,org.eclipse.core.filesystem,1.3.1.R36x_v20100727-0745,"org.eclipse.core.filesystem",1563858055766
+started,bundle,org.eclipse.core.jobs,3.5.1.R36x_v20100824,"org.eclipse.core.jobs",1563858055768
+started,bundle,org.eclipse.core.net,1.2.100.I20100511-0800,"org.eclipse.core.net",1563858055769
+started,bundle,org.eclipse.core.resources,3.6.1.R36x_v20110131-1630,"org.eclipse.core.resources",1563858055771
+started,bundle,org.eclipse.core.runtime,3.6.0.v20100505,"org.eclipse.core.runtime",1563858055773
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1563858055774
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20100517,"org.eclipse.core.runtime.compatibility.auth",1563858055775
+started,bundle,org.eclipse.core.variables,3.2.400.v20100505,"org.eclipse.core.variables",1563858055780
+started,bundle,org.eclipse.debug.core,3.6.0.v20100519,"org.eclipse.debug.core",1563858055782
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201102081640,"org.eclipse.epp.usagedata.gathering",1563858055784
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201102081640,"org.eclipse.epp.usagedata.recording",1563858055787
+started,bundle,org.eclipse.equinox.app,1.3.1.R36x_v20100803,"org.eclipse.equinox.app",1563858055788
+started,bundle,org.eclipse.equinox.common,3.6.0.v20100503,"org.eclipse.equinox.common",1563858055789
+started,bundle,org.eclipse.equinox.ds,1.2.1.R36x_v20100803,"org.eclipse.equinox.ds",1563858055794
+started,bundle,org.eclipse.equinox.event,1.2.0.v20100503,"org.eclipse.equinox.event",1563858055796
+started,bundle,org.eclipse.equinox.p2.core,2.0.3.R36x_v20110111,"org.eclipse.equinox.p2.core",1563858055803
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.203.R36x_v20101220,"org.eclipse.equinox.p2.directorywatcher",1563858055805
+started,bundle,org.eclipse.equinox.p2.engine,2.0.1.R36x_v20110201,"org.eclipse.equinox.p2.engine",1563858055808
+started,bundle,org.eclipse.equinox.p2.metadata,2.0.1.R36x_v20101202,"org.eclipse.equinox.p2.metadata",1563858055810
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.1.0.v20100513,"org.eclipse.equinox.p2.metadata.repository",1563858055815
+started,bundle,org.eclipse.equinox.p2.operations,2.0.0.v20100510,"org.eclipse.equinox.p2.operations",1563858055819
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.2.R36x_v20110114,"org.eclipse.equinox.p2.reconciler.dropins",1563858055821
+started,bundle,org.eclipse.equinox.p2.repository,2.0.2.R36x_v20110111-1500,"org.eclipse.equinox.p2.repository",1563858055824
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20100507-1815,"org.eclipse.equinox.p2.ui.sdk.scheduler",1563858055829
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.101.R36x_v20100823,"org.eclipse.equinox.p2.updatechecker",1563858055838
+started,bundle,org.eclipse.equinox.preferences,3.3.0.v20100503,"org.eclipse.equinox.preferences",1563858055840
+started,bundle,org.eclipse.equinox.registry,3.5.0.v20100503,"org.eclipse.equinox.registry",1563858055849
+started,bundle,org.eclipse.equinox.security,1.0.200.v20100503,"org.eclipse.equinox.security",1563858055852
+started,bundle,org.eclipse.equinox.util,1.0.200.v20100503,"org.eclipse.equinox.util",1563858055854
+started,bundle,org.eclipse.help,3.5.0.v20100524,"org.eclipse.help",1563858055856
+started,bundle,org.eclipse.jface,3.6.2.M20110210-1200,"org.eclipse.jface",1563858055857
+started,bundle,org.eclipse.jsch.core,1.1.200.I20100505-1245,"org.eclipse.jsch.core",1563858055866
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.101.r362_v20101117-0800,"org.eclipse.ltk.core.refactoring",1563858055868
+started,bundle,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring",1563858055870
+started,bundle,org.eclipse.mylyn.commons.net,3.4.1.v20100625-2100-e3x,"org.eclipse.mylyn.commons.net",1563858055874
+started,bundle,org.eclipse.mylyn.monitor.ui,3.4.1.v20110131-0100-e3x,"org.eclipse.mylyn.monitor.ui",1563858055876
+started,bundle,org.eclipse.search,3.6.0.v20100520-0800,"org.eclipse.search",1563858055878
+started,bundle,org.eclipse.team.core,3.5.101.R36x_v20110203-1036,"org.eclipse.team.core",1563858055885
+started,bundle,org.eclipse.team.cvs.core,3.3.301.R36x_v20110119-0815,"org.eclipse.team.cvs.core",1563858055894
+started,bundle,org.eclipse.team.cvs.ui,3.3.302.R36x_v20110203-1036,"org.eclipse.team.cvs.ui",1563858055899
+started,bundle,org.eclipse.team.ui,3.5.102.R36x_v20110203-1036,"org.eclipse.team.ui",1563858055903
+started,bundle,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui",1563858055906
+started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1563858055907
+started,bundle,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.editors",1563858055907
+started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1563858055909
+started,bundle,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.ide",1563858055912
+started,bundle,org.eclipse.ui.navigator,3.5.0.I20100601-0800,"org.eclipse.ui.navigator",1563858055916
+started,bundle,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.resources",1563858055917
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1563858055919
+started,bundle,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views",1563858055920
+started,bundle,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"org.eclipse.ui.workbench",1563858055923
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1563858055926
+started,bundle,de.innot.avreclipse.core,2.4.2,"de.innot.avreclipse.core",1563858055928
+os,sysinfo,,,"win32",1563858055936
+arch,sysinfo,,,"x86",1563858055936
+ws,sysinfo,,,"win32",1563858055936
+locale,sysinfo,,,"en_US",1563858055936
+processors,sysinfo,,,"2",1563858055936
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1563858055936
+java.runtime.version,sysinfo,,,"1.8.0_211-b12",1563858055936
+java.specification.name,sysinfo,,,"Java Platform API Specification",1563858055936
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1563858055936
+java.specification.version,sysinfo,,,"1.8",1563858055936
+java.vendor,sysinfo,,,"Oracle Corporation",1563858055936
+java.version,sysinfo,,,"1.8.0_211",1563858055936
+java.vm.info,sysinfo,,,"mixed mode",1563858055936
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1563858055936
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1563858055936
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1563858055936
+java.vm.specification.version,sysinfo,,,"1.8",1563858055936
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1563858055936
+java.vm.version,sysinfo,,,"25.211-b12",1563858055936
+started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1563858056681
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1563858056921
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1563858056967
+started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1563858057085
+started,bundle,org.eclipse.mylyn.context.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.context.ui",1563858057101
+started,bundle,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui",1563858057184
+started,bundle,org.eclipse.mylyn.team.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.team.ui",1563858057210
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1563858057214
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1563858057396
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1563858057399
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563858105070
+opened,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1563858106894
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858107032
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858108713
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858108955
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858109154
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858109440
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858109446
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858109615
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858110607
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858201579
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1563858213186
+opened,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858216352
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858216541
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858232440
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563858237339
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858239615
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563858240917
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563858243340
+opened,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858246979
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858247118
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858248967
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858249518
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858249704
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858249839
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858249964
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858249970
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858250183
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858250919
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858502791
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858601933
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858604340
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858709037
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563858740100
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563858743647
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563858750680
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858754675
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858755391
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858755573
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858755662
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858755785
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858755789
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858755973
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858758493
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858758616
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858758743
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858758795
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858758912
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858758916
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858759084
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858759565
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858759678
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858759762
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858759926
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858760006
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858760013
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858760104
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858761153
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858830318
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1563858844096
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858846116
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1563858870633
+no handler,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1563858875331
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858878562
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858881956
+executed,command,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1563858881971
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1563858881971
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858884435
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1563858900779
+started,bundle,org.eclipse.compare,3.5.101.R36x_v20100929-0800,"org.eclipse.compare",1563858901496
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563858903814
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858904894
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563858912416
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1563858922866
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1563858924688
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858926273
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1563858927095
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1563858937800
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858940168
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858940324
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858940427
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858940562
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858940685
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858940690
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858940792
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858941955
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858942141
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858942310
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858942359
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858942479
+error,log,,,"Plug-in de.innot.avreclipse.core.managedbuildsystem was unable to load class org.eclipse.cdt.managedbuilder.internal.scannerconfig.DefaultGCCScannerInfoCollector.",1563858942484
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1563858942685
+opened,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858955037
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858955171
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858963874
+closed,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858963876
+started,bundle,org.eclipse.cdt.mylyn.ui,1.1.4.v20110204-0100-e3x,"org.eclipse.cdt.mylyn.ui",1563858963927
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858965006
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858969273
+closed,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858969274
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1563858972418
+opened,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858972698
+activated,editor,org.eclipse.cdt.ui,5.2.2.201102110609,"org.eclipse.cdt.ui.editor.CEditor",1563858972845
+activated,view,org.eclipse.ui.navigator.resources,3.4.202.M20101124-0800,"org.eclipse.ui.navigator.ProjectExplorer",1563858984622

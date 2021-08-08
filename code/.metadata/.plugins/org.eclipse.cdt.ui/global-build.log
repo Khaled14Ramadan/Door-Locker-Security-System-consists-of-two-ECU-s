@@ -1,0 +1,25 @@
+??:??:?? **** Incremental Build of configuration Debug for project micro1 ****
+Info: Internal Builder is used for build
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -c -o MC1.o "..\\MC1.c" 
+In file included from ..\/micro_config.h:22,
+                 from ..\/lcd.h:12,
+                 from ..\MC1.c:14:
+c:/winavr-20100110/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+..\MC1.c: In function 'main':
+..\MC1.c:66: warning: pointer targets in passing argument 1 of 'LCD_displayString' differ in signedness
+..\MC1.c:73: warning: pointer targets in passing argument 1 of 'LCD_displayString' differ in signedness
+..\MC1.c:86: warning: pointer targets in passing argument 1 of 'LCD_displayString' differ in signedness
+..\MC1.c:95: warning: pointer targets in passing argument 1 of 'LCD_displayString' differ in signedness
+..\MC1.c:97: warning: pointer targets in passing argument 1 of 'LCD_displayString' differ in signedness
+..\MC1.c:121: warning: pointer targets in passing argument 1 of 'LCD_displayString' differ in signedness
+..\MC1.c:137: warning: pointer targets in passing argument 1 of 'LCD_displayString' differ in signedness
+..\MC1.c:153: warning: pointer targets in passing argument 1 of 'LCD_displayString' differ in signedness
+..\MC1.c:162: warning: pointer targets in passing argument 1 of 'LCD_displayString' differ in signedness
+..\MC1.c:186: warning: pointer targets in passing argument 1 of 'LCD_displayString' differ in signedness
+avr-gcc -Wl,-Map,micro1.map -mmcu=atmega16 -o micro1.elf MC1.o keypad.o lcd.o password.o timer1.o uart.o 
+-avr-size --format=avr --mcu=atmega16 micro1.elf "..\\micro1.elf" 
+Cannot run program "-avr-size": Launching failed
+
+Error: Program "-avr-size" not found in PATH
+PATH=[C:\WinAVR-20100110\bin;C:\WinAVR-20100110\utils\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\MinGW\bin;C:\MinGW\libexec\gcc\x86_64-w64-mingw32\8.2.0;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk-16.0.1\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files (x86)\Microchip\xc8\v2.10\bin;C:\Program Files\Git\cmd;C:\Users\AL-Esraa\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\AL-Esraa\AppData\Local\Programs\Python\Python38-32\;C:\Users\AL-Esraa\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2019.3.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2021.1.2\bin;;C:\Users\AL-Esraa\Documents\flutter\bin;C:\Program Files\Java\jdk-16.0.1\bin;C:\Users\AL-Esraa\AppData\Local\GitHubDesktop\bin]
+
